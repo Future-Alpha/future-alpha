@@ -1,6 +1,6 @@
 # Future Alphabet
 
-![Project Logo](../future-alphabet/assets/FutureAlphabet.png)
+![Project Logo](assets/FutureAlphabet.png)
 ### Group Members:
 
 - Raghad Abdulhadi
