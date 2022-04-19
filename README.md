@@ -1,6 +1,6 @@
 # Future Alphabet
 
-![Project Logo](assets/FutureAlphabet.png)
+![Project Logo](assets/FutureAlpha.png)
 
 ### Group Members:
 
