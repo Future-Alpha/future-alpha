@@ -1,4 +1,4 @@
-# Future Alphabet
+# Future Alpha
 
 ![Project Logo](assets/FutureAlpha.png)
 
@@ -12,7 +12,7 @@
 
 
 
-### Future Alphabet Project Description:
+### Future Alpha Project Description:
 
 Teach kids how to write letters in the proper format using a virtual mouse (camera that detects the user's hand gestures using computer vision and artificial intelligence), we can use the following libraries:
 
